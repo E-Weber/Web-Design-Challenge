@@ -29,6 +29,11 @@ p{
     text-align: left;
     background-color: lightslategrey;
 }
+.main-img{
+    max-width: 40%;
+    position: relative;
+    float: left;
+}
 img{
     max-width: 100%;
     max-height: 75%;
